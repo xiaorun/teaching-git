@@ -1,0 +1,7 @@
+Astar.java   界面源文件
+EightNumber  A×算法
+About        关于
+Random_Status.java  随机生成八数码
+digits	     图片
+
+直接编译Astar运行即可～～
